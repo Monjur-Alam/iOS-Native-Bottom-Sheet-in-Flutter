@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /Users/munjuralam/Documents/bottomsheet/lib/modals /Users/munjuralam/Documents/bottomsheet/lib/examples /Users/munjuralam/Documents/bottomsheet/assets)",
+      "Bash(cp -r /Users/munjuralam/.pub-cache/hosted/pub.dev/modal_bottom_sheet-3.0.0/example/assets/* /Users/munjuralam/Documents/bottomsheet/assets/)"
+    ]
+  }
+}
